@@ -1,4 +1,4 @@
-# starter_app
+# ch6_images
 
 A new Flutter project.
 

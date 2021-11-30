@@ -1,6 +1,6 @@
 {
-    "name": "starter_app",
-    "short_name": "starter_app",
+    "name": "ch6_images",
+    "short_name": "ch6_images",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
